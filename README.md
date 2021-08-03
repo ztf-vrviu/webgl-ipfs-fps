@@ -1,4 +1,4 @@
-# WebGL IPFS MMORPG
+# IPFS MMORPG
 
 Interplanetary File System Massively Multiplayer Online Role-Playing Game is a completely decentralized game that can be played on Earth and/or Mars.
 
