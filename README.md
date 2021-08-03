@@ -1,6 +1,6 @@
-# WebGL IPFS FPS
+# WebGL IPFS MMORPG
 
-Interplanetary File System First Person Shooter is a completely decentralized game that can be played on Earth and/or Mars.
+Interplanetary File System Massively Multiplayer Online Role-Playing Game is a completely decentralized game that can be played on Earth and/or Mars.
 
 ## Made with [UnrealEngine5](https://www.unrealengine.com/zh-CN/)
 
